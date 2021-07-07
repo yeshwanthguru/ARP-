@@ -1,0 +1,66 @@
+Mon Jan 18 16:53:32 2021
+ --- outputlog file created ---
+Mon Jan 18 16:53:32 2021
+ --- R == M pipe created ---
+Mon Jan 18 16:53:32 2021
+ --- G == R pipe created ---
+Mon Jan 18 16:53:32 2021
+ --- M process ------- created-------> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- R process-------- created------> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- G1 process----- created------> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- G2 process------ created----> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- R process-------- created------> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- G1 process----- created------> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- G2 process------ created----> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- G1 process----- created------> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- G2 process------ created----> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- M process ------- created-------> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- R process-------- created------> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- All the processes terminate ---
+Mon Jan 18 16:53:32 2021
+ --- G1 process----- created------> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- G1 process----- created------> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- G2 process------ created----> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- G2 process------ created----> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- R process-------- created------> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- G1 process----- created------> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- G1 process----- created------> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- G2 process------ created----> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- G2 process------ created----> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- All the processes terminate ---
+Mon Jan 18 16:53:32 2021
+ --- All the processes terminate ---
+Mon Jan 18 16:53:32 2021
+ --- All the processes terminate ---
+Mon Jan 18 16:53:32 2021
+ --- G1 process----- created------> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- G2 process------ created----> by Master ---
+Mon Jan 18 16:53:32 2021
+ --- All the processes terminate ---
+Mon Jan 18 16:53:32 2021
+ --- All the processes terminate ---
+Mon Jan 18 16:53:32 2021
+ --- All the processes terminate ---
+Mon Jan 18 16:53:32 2021
+ --- All the processes terminate ---
